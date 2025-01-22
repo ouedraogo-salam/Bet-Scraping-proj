@@ -31,8 +31,8 @@ bet_amount_dict = {
 }
 
 # Login credentials
-USERNAME = "729122089"
-PASSWORD = "Naboz@2025"
+USERNAME = ""
+PASSWORD = ""
 
 
 # Function for handling login to the 1xBet page
