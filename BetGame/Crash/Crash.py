@@ -283,9 +283,9 @@ async def run(pw: Playwright):
     # Initialize values
     bet_amount = base_amount_dict.get("current")
     max_amount = str(int(bet_amount) * 10)
-    ods = "1.1"
+    ods = "1.01"
 
-    browser = await pw.chromium.launch(headless=False)
+    browser = await pw.firefox.launch(headless=False)
     page = await browser.new_page()
     await page.goto(URL)
     time.sleep(TIME_WAIT * 2)

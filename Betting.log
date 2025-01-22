@@ -1,7 +1,0 @@
-2025-01-21 22:38:31.378 | INFO     | __main__:main:315 - Beginning of the Program - GOOD LUCK!
-2025-01-21 22:40:00.527 | INFO     | __main__:handle_bet_result:254 - 1. Congratulations! You Win - BET AMOUNT: 200.0 - WIN AMOUNT: 220.00000000000003 - MAIN_ACCOUNT: 620.73
-2025-01-21 22:40:00.612 | INFO     | __main__:execute_bet_cycle:126 - Waiting Time : 22 Min!
-2025-01-21 23:02:26.521 | INFO     | __main__:handle_bet_result:254 - 2. Congratulations! You Win - BET AMOUNT: 220.00000000000003 - WIN AMOUNT: 242.00000000000003 - MAIN_ACCOUNT: 642.73
-2025-01-21 23:02:26.522 | INFO     | __main__:execute_bet_cycle:126 - Waiting Time : 33 Min!
-2025-01-21 23:35:48.666 | INFO     | __main__:handle_bet_result:264 - 3. Damage! You Lose - BET AMOUNT: 242.00000000000006 - LOSE AMOUNT: 0.0 - MAIN_ACCOUNT: 400.73
-2025-01-21 23:35:48.666 | INFO     | __main__:execute_bet_cycle:126 - Waiting Time : 18 Min!
